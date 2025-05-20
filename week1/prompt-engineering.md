@@ -91,9 +91,10 @@ Sentiment Analysis, Keyword Extraction and Summarization of product reviews
    - Context Inconsistency
    - logical Inconsistency
 
+
 #### security considerations
 
-- PPI (Personally Identifiable Information): Sensitive data, such as names, addresses, or contact details, that can be used to identify individuals.
+- PII (Personally Identifiable Information): Sensitive data, such as names, addresses, or contact details, that can be used to identify individuals.
 
 - Data Privacy: Ensuring that user data used in LLM interactions is not stored or exposed inappropriately.
 
